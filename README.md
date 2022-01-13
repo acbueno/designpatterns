@@ -10,8 +10,35 @@
 ### Criacional
 <ul>
   <li>Abstract Factory</li>
-	<li>Builder</li>
-	<li>Prototype</li>
-	<li>Singleton</li>
+  <li>Builder</li>
+  <li>Prototype</li>
+  <li>Singleton</li>
 </ul>
+
+### Estrutural
+<ul>
+  <li>Adapter</li>
+  <li>Builder</li>
+  <li>Bridge</li>
+  <li>Composite</li>
+  <li>Decorator</li>
+  <li>Facade</li>
+  <li>Flyweight</li>
+  <li>Proxy</li>
+</ul>
+
+### Comportamental 
+<ul>
+  <li>Chain of Responsibility</li>
+  <li>Command</li>
+  <li>Iterator</li>
+  <li>Mediator</li>
+  <li>Memento</li>
+  <li>Observer</li>
+  <li>State</li>
+  <li>Strategy</li>
+  <li>Template Method</li>
+</ul>
+
+
 
