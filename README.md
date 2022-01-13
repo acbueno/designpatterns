@@ -6,3 +6,12 @@
 ## Design Patterns GoF
 ### Os autores do livro “Design Patterns: Elements of Reusable Object-Oriented Software” agruparam os Design Patterns em três tipos diferentes: Creational (Criação), Structural (Estrutura), Behavioral (Comportamental).
 
+## Desing Partterns abordados:
+### Criacional
+<ul>
+  <li>Abstract Factory</li>
+	<li>Builder</li>
+	<li>Prototype</li>
+	<li>Singleton</li>
+</ul>
+
