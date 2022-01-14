@@ -13,6 +13,7 @@
   <li>Builder</li>
   <li>Prototype</li>
   <li>Singleton</li>
+  <li>ObjectPool</li>
 </ul>
 
 ### Estrutural
